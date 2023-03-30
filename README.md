@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Noema-Zhao
 - 👀 I’m interested in feminism, PDE solving and climate change.
-- 🌱 I’m currently learning website development (www.shemovied.netlify.app), sex-life simulation with Julia and FNO in weather forecasting.
+- 🌱 I’m currently developing website (www.shemovied.xyz), sex-life simulation with Julia and FNO in weather forecasting.
 - 💞️ I’m looking to collaborate on all those field mentioned above.
 - 📫 How to reach me: noemazhao@gmail.com
 
